@@ -1,0 +1,21 @@
+{
+  "name": "ds304",
+  "version": "1.0.0",
+  "description": "Usado para aula de DS304 Cotuca Unicamp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiolmm03/ds304.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiolmm03/ds304/issues"
+  },
+  "homepage": "https://github.com/sergiolmm03/ds304#readme"
+}
